@@ -6,7 +6,7 @@
 
 ### Getting Started:
 
-1. Extract the contents of the provided zip file to your preferred location.
+1. Clone the git repository.
 
 2. Open a terminal or command prompt and navigate to the project's root directory.
 
