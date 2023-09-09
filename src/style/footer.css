@@ -1,0 +1,26 @@
+/* Style for the footer */
+footer {
+    background-color: rgb(91, 88, 88);
+    text-align: left;
+    padding: 20px;
+  }
+  .w3-button {
+    background-color: black;
+    color: white;
+    border: 2px;
+  }
+  .w3-disabled{
+    opacity: 0.3;
+  }
+  .w3-disabled:hover {
+    background-color: gray;
+    color: white;
+    cursor:not-allowed
+ }
+ .w3-button:hover {
+    background-color: gray;
+    color: white;
+ }
+.footerP, .footerA{
+    color: white;
+}
